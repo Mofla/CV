@@ -1,0 +1,133 @@
+@font-face{
+	font-family:Piksel;
+	src:url(zeldadxt.ttf);
+}
+@font-face{
+	font-family:Triforce;
+	src:url(Triforce.ttf);
+}
+body{
+margin: 0 auto;
+}
+h1{
+font-family:Triforce;
+color:#e60000;
+text-shadow:2px 2px #000;
+}
+#cv{
+width:900px;
+background:url('IMG/bga.jpg');
+border:1px solid black;
+margin:30px auto;
+}
+
+#contact{
+margin: 15px;
+padding: 8px;
+border:2px solid #fff;
+box-shadow:0 0 0 4px #00cc00;
+border-radius:3px;
+background:#111;
+font-family:Piksel;
+font-size:12px;
+color:white;
+max-width:300px;
+}
+#imgcontact{
+position:relative;
+float:left;
+border:1px solid #fff;
+box-shadow:0 0 0 2px #00cc00;
+border-radius: 2px;
+}
+#contact ul{
+list-style-type:none;
+}
+#contact h1{
+font-family:Triforce;
+font-size:18px;
+color:white;
+text-align:center;
+display:inline-block;
+}
+#presentation{
+margin:15px;
+padding:8px;
+border: 2px solid white;
+box-shadow: 0 0 0 4px #ffd633;
+border-radius:3px;
+font-family:Piksel;
+font-size:13px;
+color:white;
+max-width:300px;
+background:#111;
+}
+#presentation h1{
+font-family:Triforce;
+font-size:18px;
+color:white;
+text-align:center;
+display:inline-block;
+}
+#interets{
+margin:15px;
+padding:8px;
+border: 2px solid white;
+box-shadow: 0 0 0 4px #ffd633;
+border-radius:3px;
+font-family:Piksel;
+font-size:13px;
+color:white;
+max-width:300px;
+background:#111;
+}
+#interets h1{
+font-family:Triforce;
+font-size:18px;
+color:white;
+text-align:center;
+display:inline-block;
+}
+#formation{
+margin:15px;
+padding:8px;
+border: 2px solid white;
+box-shadow: 0 0 0 4px #00cc00;
+border-radius:3px;
+font-family:Piksel;
+font-size:14px;
+color:white;
+width:510px;
+background:#111;
+position:relative;
+float:right;
+}
+#formation h1{
+font-family:Triforce;
+font-size:18px;
+text-align:center;
+color:white;
+display:inline-block;
+}
+#pro{
+margin:15px;
+padding:8px;
+border: 2px solid white;
+box-shadow: 0 0 0 4px #e60000;
+border-radius:3px;
+font-family:Piksel;
+font-size:14px;
+color:white;
+width:510px;
+background:#111;
+position:relative;
+float:right;
+}
+#pro h1{
+font-family:Triforce;
+font-size:18px;
+text-align:center;
+color:white;
+display:inline-block;
+}
+
