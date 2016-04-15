@@ -19,7 +19,7 @@
 					<option value="violet" onclick="Couleur('violet')">Violet</option>
 					<option value="marron" onclick="Couleur('brown')">Brun</option>
 				</select>
-				<input type="file" value="fichier">
+				<input type="file">
 			</form>
 		</div>
 		<div id="cv">
